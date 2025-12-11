@@ -1,4 +1,3 @@
-import streamlit as st
 st.title(":red[Percobaan Hari Ini]")
 st.header(":blue[Penentuan Bilangan Ganjil dan Genap]")
 number =st.number_input("Insert a number",min_value=0,max_value=10000)
